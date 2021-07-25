@@ -27,7 +27,7 @@ Table: longurl
 ![IMG-20210725-WA0014__01](https://github.com/SumitDutta1997/URLshortenerService/blob/master/IMG-20210725-WA0014__01.jpg)
 
 Table: shorturl
-!IMG-20210725-WA0015__01[](https://github.com/SumitDutta1997/URLshortenerService/blob/master/IMG-20210725-WA0015__01.jpg)
+![IMG-20210725-WA0015__01](https://github.com/SumitDutta1997/URLshortenerService/blob/master/IMG-20210725-WA0015__01.jpg)
 
 Passed an invalid short url.
 ![IMG-20210725-WA0016__01](https://github.com/SumitDutta1997/URLshortenerService/blob/master/IMG-20210725-WA0016__01.jpg)
