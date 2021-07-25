@@ -8,6 +8,6 @@ import java.util.Optional;
 
 @Repository
 public interface ShortURLrepository extends CrudRepository<ShortURL, Short> {
-    // Get shortURL if the URL is not expired
+    
     Optional<ShortURL> findById(Long id);
 }
